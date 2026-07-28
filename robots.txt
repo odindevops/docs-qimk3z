@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-uqlr9u.kujang138btc.space/sitemap.xml
